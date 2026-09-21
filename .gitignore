@@ -1,0 +1,15 @@
+# Altium generated / temporary files
+History/
+__Previews/
+Project Logs for */
+*.PrjPcbStructure
+*.PrjPcbVariants
+*.PrjPcbCache
+*.PcbDocPreview
+*.SchDocPreview
+*.DsnWrk
+*.log
+*.LOG
+~$*
+.DS_Store
+Thumbs.db
